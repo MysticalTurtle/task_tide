@@ -1,0 +1,79 @@
+{
+    "@@locale": "es",
+    "myAccount": "Mi cuenta",
+    "@myAccount": {
+        "description": "Text shown for the user's account section"
+    },
+    "home": "Inicio",
+    "@home": {
+        "description": "Text shown for the home section"
+    },
+    "settings": "Configuración",
+    "@settings": {
+        "description": "Text shown for the settings section"
+    },
+    "notifications": "Notificaciones",
+    "@notifications": {
+        "description": "Text shown for the notifications section"
+    },
+    "details": "Detalle",
+    "@details": {
+        "description": "Text shown for the details section"
+    },
+    "editTask": "Editar tarea",
+    "@editTask": {
+        "description": "Text shown for the edit task section"
+    },
+    "title": "Título",
+    "@title": {
+        "description": "Text shown for the title field"
+    },
+    "content": "Contenido",
+    "@content": {
+        "description": "Text shown for the content field"
+    },
+    "save": "Guardar",
+    "@save": {
+        "description": "Text shown for the save button"
+    },
+    "createTask": "Crear tarea",
+    "@createTask": {
+        "description": "Text shown for the create task button"
+    },
+    "pleaseEnterText": "Por favor, ingrese texto",
+    "@pleaseEnterText": {
+        "description": "Texto mostrado cuando se solicita al usuario ingresar texto"
+    },
+    "login": "Iniciar sesión",
+    "@login": {
+        "description": "Texto mostrado para el botón o sección de iniciar sesión"
+    },
+    "email": "Correo electrónico",
+    "@email": {
+        "description": "Texto mostrado para el campo de correo electrónico"
+    },
+    "password": "Contraseña",
+    "@password": {
+        "description": "Texto mostrado para el campo de contraseña"
+    },
+    "pleaseValidEmail": "Por favor, ingresa un correo válido",
+    "@pleaseValidEmail": {
+        "description": "Text shown when prompting the user to enter a valid email"
+    },
+    "failedTask": "Error al crear una tarea",
+    "@failedTask": {
+        "description": "Text shown when fails to create a task"
+    },
+    "logout": "Cerrar sesión",
+    "@logout": {
+        "description": "Text for logout"
+    },
+    "logoutMessage": "¿Estás seguro de que deseas cerrar sesión?",
+    "@logoutMessage": {
+        "description": "Text shown when prompting the user to confirm logout"
+    },
+    "cancel": "Cancelar",
+    "@cancel": {
+        "description": "Text shown for the cancel button"
+    }
+}

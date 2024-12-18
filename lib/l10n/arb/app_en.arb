@@ -1,0 +1,79 @@
+{
+    "@@locale": "en",
+    "myAccount": "My Account",
+    "@myAccount": {
+        "description": "Text shown for the user's account section"
+    },
+    "home": "Home",
+    "@home": {
+        "description": "Text shown for the home section"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "Text shown for the settings section"
+    },
+    "notifications": "Notifications",
+    "@notifications": {
+        "description": "Text shown for the notifications section"
+    },
+    "details": "Details",
+    "@details": {
+        "description": "Text shown for the details section"
+    },
+    "editTask": "Edit Task",
+    "@editTask": {
+        "description": "Text shown for the edit task section"
+    },
+    "title": "Title",
+    "@title": {
+        "description": "Text shown for the title field"
+    },
+    "content": "Content",
+    "@content": {
+        "description": "Text shown for the content field"
+    },
+    "save": "Save",
+    "@save": {
+        "description": "Text shown for the save button"
+    },
+    "createTask": "Create Task",
+    "@createTask": {
+        "description": "Text shown for the create task button"
+    },
+    "pleaseEnterText": "Please enter some text",
+    "@pleaseEnterText": {
+        "description": "Text shown when prompting the user to enter some text"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Text shown for the login button or section"
+    },
+    "email": "Email",
+    "@email": {
+        "description": "Text shown for the email field"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Text shown for the password field"
+    },
+    "pleaseValidEmail": "Please enter a valid email",
+    "@pleaseValidEmail": {
+        "description": "Text shown when prompting the user to enter a valid email"
+    },
+    "failedTask": "Failed to create task",
+    "@failedTask": {
+        "description": "Text shown when fails to create a task"
+    },
+    "logout": "Logout",
+    "@logout": {
+        "description": "Text for logout"
+    },
+    "logoutMessage": "Are you sure you want to logout?",
+    "@logoutMessage": {
+        "description": "Text shown when prompting the user to confirm logout"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Text shown for the cancel button"
+    }
+}
